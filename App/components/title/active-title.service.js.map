@@ -1,0 +1,1 @@
+{"version":3,"file":"active-title.service.js","sourceRoot":"","sources":["active-title.service.ts"],"names":[],"mappings":";;;;;;;;AAAA,sCAAyC;AAGzC;IAAA;IAKA,CAAC;IAJG,qCAAQ,GAAR;QACI,IAAI,KAAK,GAAG,IAAI,CAAC,MAAM,EAAE,CAAC,OAAO,CAAC,CAAC,CAAC,GAAG,OAAO,CAAC;QAC/C,OAAO,KAAK,CAAC;IACjB,CAAC;IAJQ,kBAAkB;QAD9B,iBAAU,EAAE;OACA,kBAAkB,CAK9B;IAAD,yBAAC;CAAA,AALD,IAKC;AALY,gDAAkB"}
